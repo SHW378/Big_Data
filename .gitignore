@@ -1,1 +1,19 @@
 .venv
+
+# Archivos automáticos de macOS
+.DS_Store
+
+# Configuración local de VS Code
+.vscode/
+
+# Mi carpeta de prueba, permanece en mi computadora, pero no se sube a GitHub.
+U1_2_prueba/
+
+# Ignora todos los entornos virtuales, ya que el entorno puede reconstruirse a partir de las dependencias del proyecto ubicadas en requirements.txt
+**/.venv/
+
+# Archivos temporales generados por Python
+**/__pycache__/
+
+# Archivos temporales de Jupyter
+**/.ipynb_checkpoints/

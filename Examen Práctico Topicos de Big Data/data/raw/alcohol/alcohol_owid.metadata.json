@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "Share of adults who drank alcohol in last year",
+    "subtitle": "Adults are defined as those aged 15 years and older. Shown is the share of adults who have drunk any alcohol in the preceding 12 months.",
+    "citation": "World Health Organization – Global Health Observatory (2026)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-adults-who-drank-alcohol-in-last-year?v=1&csvType=full&useColumnShortNames=true",
+    "selection": [
+      "Kyrgyzstan",
+      "Lithuania",
+      "Kenya"
+    ]
+  },
+  "columns": {
+    "alcohol__consumers_past_12_months__pct__age_standardized__sex_both_sexes": {
+      "titleShort": "Alcohol, consumers past 12 months (%), age-standardized - Sex: both sexes",
+      "titleLong": "Alcohol, consumers past 12 months (%), age-standardized - Sex: both sexes",
+      "unit": "%",
+      "timespan": "2000-2020",
+      "type": "Numeric",
+      "owidVariableId": 1230863,
+      "shortName": "alcohol__consumers_past_12_months__pct__age_standardized__sex_both_sexes",
+      "lastUpdated": "2026-05-22",
+      "nextUpdate": "2027-05-22",
+      "citationShort": "World Health Organization – Global Health Observatory (2026) – with minor processing by Our World in Data",
+      "citationLong": "World Health Organization – Global Health Observatory (2026) – with minor processing by Our World in Data. “Alcohol, consumers past 12 months (%), age-standardized - Sex: both sexes – WHO” [dataset]. World Health Organization, “Global Health Observatory” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1230863.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-09-14",
+  "activeFilters": {}
+}

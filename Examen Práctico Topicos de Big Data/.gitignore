@@ -3,3 +3,5 @@
 __pycache__/
 *.pyc
 
+# Pipeline opcional; se conserva localmente, pero no se entrega.
+src/01_pipeline_alcohol.py

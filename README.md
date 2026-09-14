@@ -1,3 +1,5 @@
+dataset: Alcohol
+
 # Big Data
 Repositorio de prácticas y proyectos desarrollados durante la materia de **Big Data**.
  
@@ -16,6 +18,7 @@ Cada carpeta corresponde a una práctica o proyecto independiente:
 bigdata/
 │
 ├── U1_1_probabilidad_estadistica/
+├── Examen Práctico Tópicos de Big Data
 ├── U1_2_...
 ├── U2_1_...
 └── ...

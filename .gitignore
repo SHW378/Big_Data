@@ -17,3 +17,6 @@ U1_2_prueba/
 
 # Archivos temporales de Jupyter
 **/.ipynb_checkpoints/
+
+# Documento de investigación que se conserva únicamente de forma local
+/Actividad de investigación Machine Learning.docx

@@ -7,9 +7,17 @@ U3_1_modelos_ml/
 ├── data/          # Archivos de datos
 ├── src/           # Código Python auxiliar
 ├── notebooks/
-│   └── U3_1_modelos_regresion_demografia.ipynb
+│   ├── U3_1_modelos_regresion_demografia.ipynb
+│   ├── U3_2_Preparacion_dataset.ipynb
+│   ├── U3_3_series_red_neuronal.ipynb
+│   └── U3_4_proyecciones_2100.ipynb
 └── requirements.txt
 ```
+
+- `U3_1`: regresión lineal, polinomial y Random Forest (incluye México 2000 y China).
+- `U3_2`: preparación del dataset integrado con salud y PIB.
+- `U3_3`: series de tiempo, regresión lineal múltiple y red neuronal con seis variables.
+- `U3_4`: lo mismo que U3_3 más las proyecciones condicionadas hasta 2100.
 
 ## Preparar el entorno
 

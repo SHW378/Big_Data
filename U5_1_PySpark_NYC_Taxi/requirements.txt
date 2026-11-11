@@ -1,0 +1,4 @@
+pyspark
+pyarrow
+jupyterlab
+ipykernel

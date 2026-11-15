@@ -47,3 +47,5 @@ practica/
 
 
 prueba desde Databricks
+
+prueba desde la PC local

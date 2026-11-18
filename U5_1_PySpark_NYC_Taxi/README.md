@@ -8,7 +8,8 @@ U5_1_PySpark_NYC_Taxi/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-│   └── U5_1_preparation_pyspark_NYC_taxi.ipynb
+│   ├── U5_1_preparation_pyspark_NYC_taxi.ipynb
+│   └── U5_2_NYC_Taxi_Analytics_Practica_Integradora.ipynb   # se ejecuta en Databricks
 └── requirements.txt
 ```
 
